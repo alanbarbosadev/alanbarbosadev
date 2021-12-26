@@ -29,6 +29,10 @@
  </div>
 </div>
   
+<div align="center">
+  <h2>Minhas contribuições</h2>
+</div>
+  
 ![snake gif](https://github.com/alanbarbosadev/alanbarbosadev/blob/output/github-contribution-grid-snake.gif)
   
 
