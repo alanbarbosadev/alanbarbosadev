@@ -28,13 +28,3 @@
    <img align="center" alt="Alan-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
  </div>
 </div>
-  
-<div align="center">
-  <h2>Contribuições</h2>
-</div>
-  
-
- ![snake gif](https://github.com/alanbarbosadev/alanbarbosadev/blob/output/github-contribution-grid-snake.gif)
-  
-
-
