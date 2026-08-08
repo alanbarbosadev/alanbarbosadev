@@ -3,11 +3,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/alanbarbosadev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbarbosadev&layout=compact&langs_count=7&theme=buefy"/>
-</div>
-  
-<div align="center">
   <h2>Habilidades</h2>
 </div>
 
